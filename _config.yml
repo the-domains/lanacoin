@@ -1,0 +1,84 @@
+typography_spectrum: 0.24524813960306346
+content_rating:
+  adult: false
+color:
+  brandStrength: 0.8481592712923884
+  lightness: 0.11336530605331063
+  saturation: 0.06986363464966416
+  rhythmicContrast: 0.5120871551334858
+  brandColors:
+    - '#262626'
+    - '#E5D41C'
+    - '#F28113'
+    - '#B5A81E'
+    - '#824F1D'
+layout_spectrum: 0.6700025082100183
+author:
+  email: lana@crypto.si
+  name: LanaCoin
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/76db7b56-8bec-43ab-ac90-b4947a8d3ead.png
+name: LanaCoin
+colors:
+  brandColors:
+    - 'hsl(0,0%,100%)'
+    - 'hsl(0,0%,80%)'
+    - 'hsl(0,0%,60%)'
+    - 'hsl(0,0%,30%)'
+    - 'hsl(0,0%,20%)'
+navigation:
+  - name: Cryptopia Exchange
+    url: 'https://goo.gl/k0fzVy'
+    type: external
+  - name: CoinMarketCap
+    url: 'http://coinmarketcap.com/currencies/lanacoin/'
+    type: external
+  - name: LanaCoin Faucet
+    url: 'https://goo.gl/aEXekl'
+    type: external
+  - name: Forum
+    url: 'https://bitcointalk.org/index.php?topic=1448065.0'
+    type: external
+  - name: Twitter
+    url: 'https://twitter.com/LanaCoin'
+    type: external
+  - name: Facebook
+    url: 'https://www.facebook.com/LanaCoins/'
+    type: external
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/0b28a9d0-529b-49d4-8ca3-f2ec15bcf20b.png
+title: 'LanaCoin '
+content:
+  - id: !<tag:yaml.org,2002:js/undefined> ''
+    type: image
+    html: >-
+      <img
+      src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/79f9393f-d567-45a6-af6f-990c0747de09.jpg">
+    src: >-
+      https://the-grid-user-content.s3-us-west-2.amazonaws.com/79f9393f-d567-45a6-af6f-990c0747de09.jpg
+    metadata:
+      datePublished: null
+      keywords: []
+      related: []
+      author: []
+      '@context': 'http://schema.org'
+      '@type': MediaObject
+      app_links: []
+      publisher:
+        url: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com'
+        name: The-grid-user-content
+        favicon: null
+        domain: the-grid-user-content.s3-us-west-2.amazonaws.com
+      description: ''
+    title: !<tag:yaml.org,2002:js/undefined> ''
+    caption: !<tag:yaml.org,2002:js/undefined> ''
+    text: !<tag:yaml.org,2002:js/undefined> ''
+description: Personalized cryptocurrency
+purpose:
+  - type: external
+    url: 'https://github.com/LanaCoin/lanacoin/releases'
+    label: Download Wallet
+  - type: external
+    url: 'https://github.com/LanaCoin/lanacoin'
+    label: Source Code
+github: true
