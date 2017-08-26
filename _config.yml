@@ -33,9 +33,6 @@ navigation:
   - name: CoinMarketCap
     url: 'http://coinmarketcap.com/currencies/lanacoin/'
     type: external
-  - name: LanaCoin Faucet
-    url: 'https://goo.gl/aEXekl'
-    type: external
   - name: Forum
     url: 'https://bitcointalk.org/index.php?topic=1448065.0'
     type: external
