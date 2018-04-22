@@ -37,14 +37,14 @@ navigation:
   - name: Twitter
     url: 'https://twitter.com/LanaCoin'
     type: external
+  - name: Telegram
+    url: 'https://t.me/LanaCoin'
+    type: external
   - name: Cryptopia Exchange
     url: 'https://goo.gl/k0fzVy'
     type: external
   - name: CoinMarketCap
     url: 'http://coinmarketcap.com/currencies/lanacoin/'
-    type: external
-  - name: Telegram
-    url: 'https://t.me/LanaCoin'
     type: external
   - name: Medium
     url: 'https://medium.com/@LanaCoin/'
