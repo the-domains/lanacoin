@@ -31,6 +31,9 @@ navigation:
   - name: Forum
     url: 'https://bitcointalk.org/index.php?topic=1448065.0'
     type: external
+  - name: Facebook
+    url: 'https://www.facebook.com/LanaCoins/'
+    type: external
   - name: Twitter
     url: 'https://twitter.com/LanaCoin'
     type: external
@@ -39,9 +42,6 @@ navigation:
     type: external
   - name: CoinMarketCap
     url: 'http://coinmarketcap.com/currencies/lanacoin/'
-    type: external
-  - name: Facebook
-    url: 'https://www.facebook.com/LanaCoins/'
     type: external
   - name: Telegram
     url: 'https://t.me/LanaCoin'
