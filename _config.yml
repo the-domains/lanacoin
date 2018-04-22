@@ -52,6 +52,9 @@ navigation:
   - name: Linkedin
     url: 'https://www.linkedin.com/company/18300372/'
     type: external
+  - name: Yobit Exchange
+    url: 'https://goo.gl/YpfFQQ'
+    type: external
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/0b28a9d0-529b-49d4-8ca3-f2ec15bcf20b.png
 title: 'LanaCoin '
