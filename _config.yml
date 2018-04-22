@@ -12,6 +12,7 @@ color:
     - '#F28113'
     - '#B5A81E'
     - '#824F1D'
+github: true
 layout_spectrum: 0.6700025082100183
 author:
   email: lana@crypto.si
@@ -41,6 +42,9 @@ navigation:
     type: external
   - name: Facebook
     url: 'https://www.facebook.com/LanaCoins/'
+    type: external
+  - name: Telegram
+    url: 'https://t.me/LanaCoin'
     type: external
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/0b28a9d0-529b-49d4-8ca3-f2ec15bcf20b.png
@@ -78,4 +82,3 @@ purpose:
   - type: external
     url: 'https://github.com/LanaCoin/lanacoin'
     label: Source Code
-github: true
