@@ -43,11 +43,11 @@ navigation:
   - name: Medium
     url: 'https://medium.com/@LanaCoin/'
     type: external
-  - name: Cryptopia Exchange
-    url: 'https://goo.gl/k0fzVy'
-    type: external
   - name: CoinMarketCap
     url: 'http://coinmarketcap.com/currencies/lanacoin/'
+    type: external
+  - name: Cryptopia Exchange
+    url: 'https://goo.gl/k0fzVy'
     type: external
   - name: Linkedin
     url: 'https://www.linkedin.com/company/18300372/'
